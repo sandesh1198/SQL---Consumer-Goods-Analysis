@@ -29,9 +29,23 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 
 # Project
 ![cga](https://github.com/user-attachments/assets/bcafbd6b-575d-40e7-94e3-5e0bc55a8703)
-
-
-
+![sq2](https://github.com/user-attachments/assets/354fdc0e-6920-4d0b-b18e-b9e586af6734)
+![sql3](https://github.com/user-attachments/assets/e8d18ea9-a753-4e19-9433-7e5884266cf2)
+![sql4](https://github.com/user-attachments/assets/9aaaa5e6-4933-45dd-9266-ca151af689a7)
+![sql5](https://github.com/user-attachments/assets/adb20235-bd2a-4eda-8fff-dd916790b239)
+![sql6](https://github.com/user-attachments/assets/61ff179b-8a1a-4cc2-ab16-9806c90077ed)
+![sql7](https://github.com/user-attachments/assets/29664230-fbcf-4ed7-a1cb-68085aa3c2c7)
+![sql8](https://github.com/user-attachments/assets/40538697-9af3-4332-af23-03b8b95bd354)
+![sql9](https://github.com/user-attachments/assets/4426a305-5b4b-41af-ba55-5a4d9c153df0)
+![sql10](https://github.com/user-attachments/assets/c2259fe0-11bf-4c31-849a-b98eb8533837)
+![sql11](https://github.com/user-attachments/assets/f797f650-1875-40f0-8a37-664c![sql12](https://github.com/user-attachments/assets/a9fc8738-5d76-4fb4-a87f-c72b5d8e1866)
+ce521723)
+![sql13](https://github.com/user-attachments/assets/66d4bd67-5f07-4d81-8ae6-1f8dfbdfb015)
+![sql14](https://github.com/user-attachments/assets/5a135116-5c2b-4b91-beca-0e9bb5dd173f)
+![sql15](https://github.com/user-attachments/assets/4c30bbd3-5366-41db-ae52-77cb0b58b7d0)
+![sql16](https://github.com/user-attachments/assets/35df7c3d-a715-490d-87ac-adee9b45e7b0)
+![sql17](https://github.com/user-attachments/assets/1dcb8076-3ca4-49b7-bfca-c7b3bdf59b11)
+![sql18](https://github.com/user-attachments/assets/4168a55b-1ab9-4643-8375-ad4a85cb4fd6)
 
 ## My Portfolio: https://codebasics.io/portfolio/Sandesh-Ravindra-Chaudhari
 
