@@ -1,4 +1,4 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d795f706f7274666f6c696f2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/3f39e4a5-56d4-4d59-8bdb-4bf29cf887a4)# AtliQ Hardwares Consumer Goods Data Analytics SQL Project
+# AtliQ Hardwares Consumer Goods Data Analytics SQL Project
 Welcome to the AtliQ Hardwares Consumer Goods Data Analytics Project repository. This repository contains the code and SQL queries utilized for the Consumer Goods domain section of the Data Analytics Bootcamp at Codebasics.
 
 ## Overview
