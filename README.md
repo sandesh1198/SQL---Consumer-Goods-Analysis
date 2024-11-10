@@ -28,7 +28,8 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 2. PPT: [SQL.PROJECT.pptx](https://github.com/user-attachments/files/17690625/SQL.PROJECT.pptx)
 
 # Project
-![Uploading cga.png…]()
+![cga](https://github.com/user-attachments/assets/a9e33cce-6562-4f9f-9431-2f0c03016097)
+
 
 
 ## My Portfolio: https://codebasics.io/portfolio/Sandesh-Ravindra-Chaudhari
